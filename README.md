@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: I'm Mitch, a computer science major from Calgary living in Kelowna currently.
-- Person 2: one sentence about you!
+- Person 2: I'm Nolan, a computer science major from Calgary living in Calgary currently.
 - Person 3: one sentence about you!
 
 ## References
